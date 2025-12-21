@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-ec2": "^3.956.0",
+    "@aws-sdk/client-ssm": "^3.956.0",
+    "@modelcontextprotocol/sdk": "^1.25.1"
+  }
 }
